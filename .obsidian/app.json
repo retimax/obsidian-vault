@@ -1,0 +1,17 @@
+{
+  "spellcheck": true,
+  "tabSize": 2,
+  "vimMode": false,
+  "attachmentFolderPath": "./anexos",
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useTab": true
+}

@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Flexoki",
+  "theme": "obsidian",
+  "accentColor": "#dedede",
+  "interfaceFontFamily": "MesloLGL Nerd Font",
+  "baseFontSize": 15,
+  "textFontFamily": "MesloLGL Nerd Font",
+  "monospaceFontFamily": "MesloLGL Nerd Font Mono",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": []
+}
